@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>xyz.solardev</groupId>
+    <artifactId>Proxima</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <dependencies>
+<!--        <dependency>-->
+<!--            <groupId>net.milkbowl</groupId>-->
+<!--            <artifactId>VaultAPI</artifactId>-->
+<!--            <version>1.7.2</version>-->
+<!--            <systemPath>${project.basedir}/libs/Vault.jar</systemPath>-->
+<!--        </dependency>-->
+        <dependency>
+            <groupId>com.comphenix</groupId>
+            <artifactId>ProtocolLib</artifactId>
+            <version>LATEST</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/libs/ProtocolLib-LATEST.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>net.frozenorb</groupId>
+            <artifactId>qlib</artifactId>
+            <version>LATEST</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/libs/qLib-LATEST.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>org.bukkit</groupId>
+            <artifactId>spigot-server</artifactId>
+            <version>SPIGOT-1.8-R0.1-SNAPSHOT-LATEST</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/libs/server.jar</systemPath>
+        </dependency>
+    </dependencies>
+
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+</project>

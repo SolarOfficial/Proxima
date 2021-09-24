@@ -1,0 +1,17 @@
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\serverselector\Menu.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\scoreboard\api\AssembleBoard.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\scoreboard\api\AssembleAdapter.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\commands\HubCoreCommand.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\listeners\HubListener.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\scoreboard\api\events\AssembleBoardCreatedEvent.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\scoreboard\api\AssembleException.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\Proxima.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\scoreboard\api\Assemble.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\scoreboard\api\AssembleThread.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\scoreboard\api\events\AssembleBoardDestroyEvent.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\scoreboard\api\AssembleBoardEntry.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\scoreboard\api\AssembleListener.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\utils\Chat.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\scoreboard\api\AssembleStyle.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\scoreboard\api\events\AssembleBoardCreateEvent.java
+D:\Plugins\Proxima\src\main\java\xyz\solardev\proxima\scoreboard\Adapter.java

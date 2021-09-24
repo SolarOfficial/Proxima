@@ -1,0 +1,8 @@
+name: Proxima
+main: xyz.solardev.proxima.Proxima
+description: A basic Hub Core!
+version: 1.0
+authors:
+  - SolarDev
+  - Rith
+depend: [qLib, ProtocolLib]

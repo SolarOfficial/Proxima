@@ -1,0 +1,12 @@
+scoreboard:
+  title: "&6&lHCClans Network"
+  lines:
+    - "&7&m-----------------------"
+    - "&6Rank&7:"
+    - "&4Owner"
+    - ""
+    - "&6Online&7:"
+    - "&f%playerCount%"
+    - ""
+    - "&e&ohcclans.club"
+    - "&7&m-----------------------"
