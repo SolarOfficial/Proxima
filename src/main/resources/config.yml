@@ -1,12 +1,12 @@
 scoreboard:
-  title: "&6&lHCClans Network"
+  title: "&b&lProxima Network"
   lines:
     - "&7&m-----------------------"
-    - "&6Rank&7:"
-    - "&4Owner"
+    - "&bRank&7:"
+    - "&7%rank%"
     - ""
-    - "&6Online&7:"
+    - "&bOnline&7:"
     - "&f%playerCount%"
     - ""
-    - "&e&ohcclans.club"
+    - "&3&osolardev.xyz"
     - "&7&m-----------------------"
